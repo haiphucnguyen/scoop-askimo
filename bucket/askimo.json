@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/haiphucnguyen/askimo/releases/download/v0.3.0/askimo-v0.3.0-windows-x64.zip",
-      "hash": "f41d06d8f4f0ae9dd2f12461e77626a244a1417ea4cb07beb7f18d34c55099f1",
+      "hash": "d0279fdaed61c205a16665f2623b127f4fed3a3ccd9b429df02ae404b647d399",
       "bin": "askimo.exe"
     }
   }
