@@ -5,8 +5,8 @@
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/haiphucnguyen/askimo/releases/download/v1.0.0/askimo-v1.0.0-windows-x64.zip",
-      "hash": "a8db59e7bdf5292d99be7c63748748cebd8bf20b9625bf404b6173f835ae9ab9",
+      "url": "https://github.com/haiphucnguyen/askimo/releases/download/v1.0.0/askimo-windows-x64.zip",
+      "hash": "c58a6979e6945f8f73c9d897e633825dec3f4ce91b55b5c7d5e28de841252976",
       "bin": "askimo.exe"
     }
   }
