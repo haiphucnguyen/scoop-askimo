@@ -1,12 +1,12 @@
 {
-  "version": "1.2.9",
+  "version": "1.2.10",
   "description": "AI-powered terminal assistant for multiple LLM providers",
   "homepage": "https://github.com/haiphucnguyen/askimo",
   "license": "Apache-2.0",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/haiphucnguyen/askimo/releases/download/v1.2.9/askimo-windows-x64.zip",
-      "hash": "5769a8c29e5bc725bffbd2e7f57d154ec4d8da7351bf0a9019876e4299a26bb8",
+      "url": "https://github.com/haiphucnguyen/askimo/releases/download/v1.2.10/askimo-windows-x64.zip",
+      "hash": "0c2578694c12ab0e17d0caf5621ee384400399e7ab6ad4173d69d876fb235fb0",
       "bin": "askimo.exe"
     }
   }
